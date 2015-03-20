@@ -9,4 +9,5 @@ def calcaverage(y,us):
 		total=total+i
 	average=float(total/len(y[us]))
 	print "Name: {} \nAverage: {}".format(us,average)
+	print "I like messing up his repository :P"
 	return
